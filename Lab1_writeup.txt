@@ -1,0 +1,640 @@
+query: killing incident 
+file name: To_be_posted/Doc (13).txt
+rank: 4.330916878114617
+first sentence: FIVE IRISH tourists charged in connection with an alleged air-rage incident will face trial at a Crown Court
+
+file name: To_be_posted/Doc (106).txt
+rank: 2.5495571645899573
+first sentence: A CONVICTED sex attacker who was cleared of killing and mutilating a prostitute six years ago was jailed for life at the Old Bailey yesterday for murdering another woman
+
+file name: To_be_posted/Doc (33).txt
+rank: 2.5495571645899573
+first sentence: A drifter who killed three friends was jailed for life at Reading Crown Court
+
+file name: To_be_posted/Doc (32).txt
+rank: 2.1853347125056777
+first sentence: DRUG-CRAZED axeman Alan Hobbs who butchered three friends in a 24-hour frenzy was jailed for life yesterday
+
+file name: To_be_posted/Doc (12).txt
+rank: 2.1654584390573084
+first sentence: FIVE Irish tourists charged in connection with an alleged air rage incident which led to a Jamaica-bound plane being diverted to the US have been committed for trial at Chichester Crown Court
+
+file name: To_be_posted/Doc (26).txt
+rank: 1.9248519458287185
+first sentence: Police officers beat up a man in an "outrageous" display of brutality, then lied about the incident on oath, the old Bailey heard yesterday
+
+file name: To_be_posted/Doc (28).txt
+rank: 1.7528205506555956
+first sentence:  AN AXE monster who slaughtered a charity worker and her two lovers in scenes of 'unimaginable savagery' was jailed for life yesterday
+
+file name: To_be_posted/Doc (93).txt
+rank: 1.6997047763933049
+first sentence: NAZI nailbomber David Copeland had a death wish from the age of 14, a court heard yesterday
+
+file name: To_be_posted/Doc (143).txt
+rank: 1.6997047763933049
+first sentence: A GANG who terrorised a student before throwing him into a river where he drowned were convicted of his killing yesterday
+
+file name: To_be_posted/Doc (101).txt
+rank: 1.6997047763933049
+first sentence: A BRUTAL sex monster dubbed by police a modern Jack the Ripper was jailed for life yesterday
+
+file name: To_be_posted/Doc (34).txt
+rank: 1.6997047763933049
+first sentence: A DRIFTER who killed three friends in a savage axe attack was jailed for life yesterday
+
+file name: To_be_posted/Doc (107).txt
+rank: 1.4568898083371185
+first sentence: A SEX offender who boasted in prison that he had got away with killing one woman and had murdered several others was yesterday jailed for life for murdering a young mother whose mutilated body was found in a shallow grave in Surrey
+
+file name: To_be_posted/Doc (80).txt
+rank: 1.4436389593715389
+first sentence: ONE of Britain's top police officers appeared in court yesterday accused of a series of sex assaults on two civilian staff
+
+file name: To_be_posted/Doc (10).txt
+rank: 1.4436389593715389
+first sentence: A BUSINESSMAN accused of indulging in a passionate clinch with a woman stranger on a transatlantic flight was sent for trial when he appeared in court yesterday
+
+file name: To_be_posted/Doc (31).txt
+rank: 1.4164206469944207
+first sentence: A DRIFTER who killed three friends in horrific axe and knife attacks was given three life sentences yesterday
+
+
+
+
+query: suspect charged with murder 
+file name: To_be_posted/Doc (47).txt
+rank: 4.771949585926405
+first sentence: ROBINA Hashim, 29, was remanded in custody by Burnley, Lancs, JPs yesterday charged with murdering her baby daughter
+
+file name: To_be_posted/Doc (49).txt
+rank: 4.771949585926405
+first sentence: THE MOTHER of a four-month-old girl whose body was found in a canal has been charged with her baby's murder
+
+file name: To_be_posted/Doc (85).txt
+rank: 4.771949585926405
+first sentence:  Thomas AlIsop, 45, of Ludlow Square in north Belfast, appeared in court yesterday charged with the murder of Mr Bennett
+
+file name: To_be_posted/Doc (13).txt
+rank: 2.5495571645899573
+first sentence: FIVE IRISH tourists charged in connection with an alleged air-rage incident will face trial at a Crown Court
+
+file name: To_be_posted/Doc (11).txt
+rank: 2.5495571645899573
+first sentence: An executive accused of having sex with a stranger on board an American Airlines flight from Dallas to Manchester last October was sent for trial on April 3
+
+file name: To_be_posted/Doc (77).txt
+rank: 2.5495571645899573
+first sentence: Ian Beckett, 52, the Deputy Chief Constable of Surrey Police, has been remanded by London magistrates on four charges of indecent assault against two women at the Mount Browne headquarters
+
+file name: To_be_posted/Doc (151).txt
+rank: 2.5495571645899573
+first sentence: John Stratford, 28, an Army sergeant from Wavertree, Liverpool, appeared before magistrates in Hexham, Northumberland, charged with six counts of common assault on cadets at a training camp and possessing an offensive weapon
+
+file name: To_be_posted/Doc (1).txt
+rank: 2.5495571645899573
+first sentence: A MAN of 80 appeared before Birmingham JPs yesterday charged with 14 indecent assaults on boys at a children's home
+
+file name: To_be_posted/Doc (12).txt
+rank: 2.5495571645899573
+first sentence: FIVE Irish tourists charged in connection with an alleged air rage incident which led to a Jamaica-bound plane being diverted to the US have been committed for trial at Chichester Crown Court
+
+file name: To_be_posted/Doc (8).txt
+rank: 2.5495571645899573
+first sentence: A SOCIAL services inspector was yesterday jailed for 14 years for physically and sexually abusing boys in his care while serving as headmaster at a special school
+
+file name: To_be_posted/Doc (75).txt
+rank: 2.5495571645899573
+first sentence: THE Deputy Chief Constable of Surrey was in court yesterday charged with four sex attacks
+
+file name: To_be_posted/Doc (140).txt
+rank: 2.483093078095508
+first sentence: A former salesman who claimed to be 'the friendly face of home shopping' was yesterday given two life sentences for the murder of a dog breeder and her mother
+
+file name: To_be_posted/Doc (48).txt
+rank: 2.3859747929632027
+first sentence: The mother of a baby found dead in a canal in Burnley in Lancashire was yesterday charged with murder
+
+file name: To_be_posted/Doc (107).txt
+rank: 2.269130241801235
+first sentence: A SEX offender who boasted in prison that he had got away with killing one woman and had murdered several others was yesterday jailed for life for murdering a young mother whose mutilated body was found in a shallow grave in Surrey
+
+file name: To_be_posted/Doc (144).txt
+rank: 2.222392421336448
+first sentence: Three men found guilty of murdering 18-year-old student Jonathan Coles, who was thrown into a river after leaving a Milton Keynes club, were facing life sentences last night
+
+
+
+
+query: court 
+file name: To_be_posted/Doc (13).txt
+rank: 1.3536369546147005
+first sentence: FIVE IRISH tourists charged in connection with an alleged air-rage incident will face trial at a Crown Court
+
+file name: To_be_posted/Doc (149).txt
+rank: 1.3536369546147005
+first sentence: A WOMAN doctor who set up a brothel to pay the bills was jailed for three months yesterday
+
+file name: To_be_posted/Doc (144).txt
+rank: 1.3536369546147005
+first sentence: Three men found guilty of murdering 18-year-old student Jonathan Coles, who was thrown into a river after leaving a Milton Keynes club, were facing life sentences last night
+
+file name: To_be_posted/Doc (113).txt
+rank: 1.3536369546147005
+first sentence: Two Egyptians appeared at Bow Street magistrates' court yesterday in connectionwith the bombings last year of two American embassies in Africa
+
+file name: To_be_posted/Doc (110).txt
+rank: 1.3536369546147005
+first sentence: TWO Egyptians appeared in court yesterday in London in connection with the bombing of two American embassies in Africa
+
+file name: To_be_posted/Doc (75).txt
+rank: 1.3536369546147005
+first sentence: THE Deputy Chief Constable of Surrey was in court yesterday charged with four sex attacks
+
+file name: To_be_posted/Doc (127).txt
+rank: 1.3536369546147005
+first sentence: THE TRIAL of a 13-year-old youth accused of killing a boy of nine by setting his petrol-soaked clothes alight collapsed yesterdaywhen the judge ruled that theteenager could not understand the proceedings
+
+file name: To_be_posted/Doc (52).txt
+rank: 1.3536369546147005
+first sentence: TODDLER Molly Adams was killed by her 12-year-old babysitter, a court heard yesterday
+
+file name: To_be_posted/Doc (85).txt
+rank: 1.3536369546147005
+first sentence:  Thomas AlIsop, 45, of Ludlow Square in north Belfast, appeared in court yesterday charged with the murder of Mr Bennett
+
+file name: To_be_posted/Doc (165).txt
+rank: 1.3536369546147005
+first sentence: JUDGES yesterday saved the NHS from being "bankrupted" by £1bn-a-year nursing home fees
+
+file name: To_be_posted/Doc (155).txt
+rank: 1.3536369546147005
+first sentence: Maurice Travis, 19, was jailed for life at Wolverhampton Crown Court for stabbing Alan Averall to death on his 17th birthday after being refused cake at Stoke Heath Young Offenders' Institute
+
+file name: To_be_posted/Doc (21).txt
+rank: 1.0152277159610255
+first sentence: A NURSE won £157,000 damages yesterday after being forced to give up the job she loved when a chemical used in hospitals to sterilise surgical instruments caused her to develop asthma
+
+file name: To_be_posted/Doc (80).txt
+rank: 0.9024246364098003
+first sentence: ONE of Britain's top police officers appeared in court yesterday accused of a series of sex assaults on two civilian staff
+
+file name: To_be_posted/Doc (16).txt
+rank: 0.9024246364098003
+first sentence: A HIGH Court judge ordered an ambulance service to pay £360,000 yesterday to a mother brain damaged after a delayed response to an emergency call
+
+file name: To_be_posted/Doc (131).txt
+rank: 0.9024246364098003
+first sentence: A 14-year-old boy convicted 55 times in the last two years was made the subject of an antisocial behaviour order yesterday
+
+
+
+
+query: jury sentenced murderer to prison 
+file name: To_be_posted/Doc (144).txt
+rank: 4.998720447773428
+first sentence: Three men found guilty of murdering 18-year-old student Jonathan Coles, who was thrown into a river after leaving a Milton Keynes club, were facing life sentences last night
+
+file name: To_be_posted/Doc (99).txt
+rank: 4.953628425572424
+first sentence: THE father of a young mum butchered by a 19st sex monster last night blasted the legal system for allowing the fiend to remain free for 23 years
+
+file name: To_be_posted/Doc (4).txt
+rank: 4.817822708772495
+first sentence: Two key workers at a children's home were sentenced yesterday to a total of 23 years in prison for a string of sexual assaults on boys in their care
+
+file name: To_be_posted/Doc (138).txt
+rank: 4.540854906222229
+first sentence: A FORMER double-glazing salesman received two life sentences yesterday for the murders of a prize-winning dog breeder and her elderly mother at their isolated farmhouse
+
+file name: To_be_posted/Doc (51).txt
+rank: 4.082989364671032
+first sentence: An 18-year-old won the backing of a high court judge yesterday to keep her new-born baby with her in prison
+
+file name: To_be_posted/Doc (107).txt
+rank: 3.517399538549488
+first sentence: A SEX offender who boasted in prison that he had got away with killing one woman and had murdered several others was yesterday jailed for life for murdering a young mother whose mutilated body was found in a shallow grave in Surrey
+
+file name: To_be_posted/Doc (143).txt
+rank: 3.447525460531848
+first sentence: A GANG who terrorised a student before throwing him into a river where he drowned were convicted of his killing yesterday
+
+file name: To_be_posted/Doc (121).txt
+rank: 3.279726102008131
+first sentence: A MAN accused of murdering British postman Brian Hagland at Sydney's Bondi Beach was cleared yesterday
+
+file name: To_be_posted/Doc (44).txt
+rank: 3.0507933312325317
+first sentence: BABY killer Sally Clarke protested her innocence yesterday from her prison cell
+
+file name: To_be_posted/Doc (123).txt
+rank: 2.984170120644097
+first sentence: A MAN who attacked a British postman near Bondi Beach in Sydney has been cleared of his murder
+
+file name: To_be_posted/Doc (27).txt
+rank: 2.7763280264369796
+first sentence: THE man who turned his ex-girlfriend into a human fireball has changed his court plea AGAIN and today faces a 25-year jail sentence
+
+file name: To_be_posted/Doc (50).txt
+rank: 2.5768083166435707
+first sentence: A TEENAGE woman prisoner was supported by a High Court judge yesterday in her battle to keep her new-born baby with her in jail
+
+file name: To_be_posted/Doc (142).txt
+rank: 2.499360223886714
+first sentence: FOUR youths were yesterday convicted of killing a promising A-level student who they beat-up and left in a river to drown after a night club brawl
+
+file name: To_be_posted/Doc (102).txt
+rank: 2.3333194331746316
+first sentence: I WATCHED shambling 19stone giant David Smith shuffle out of the Old Bailey six years ago - a free man
+
+file name: To_be_posted/Doc (124).txt
+rank: 2.3189292399426367
+first sentence: THE FAMILY of a British Backpacker killed at Bondi Beach broke down in court yesterday after they watched a Sydney jury clear his attacker of murder
+
+
+
+
+query: movie 
+file name: To_be_posted/Doc (320).txt
+rank: 3.6870606883398924
+first sentence: BRIDE-TO-be Catherine Zeta Jones was celebrating again yesterday after signing a multi million-pound deal to make up to 12 movies
+
+file name: To_be_posted/Doc (205).txt
+rank: 3.6870606883398924
+first sentence: LIZ HURLEY basked in reflected glory at the London premier of her new movie Mickey Blue Eyes last night
+
+file name: To_be_posted/Doc (319).txt
+rank: 2.4580404588932616
+first sentence: STUNNING Catherine Zeta Jones has signed a £250million deal to make Hollywood movies, it was revealed last night
+
+file name: To_be_posted/Doc (115).txt
+rank: 2.2122364130039354
+first sentence: JAMES Bond star Pierce Brosnan plants a kiss on fiancee Keely Shaye-Smith at last night's British premiere of his new 007 movie
+
+file name: To_be_posted/Doc (312).txt
+rank: 1.8435303441699462
+first sentence: THOMAS The Tank Engine is being made into a blockbuster movie
+
+file name: To_be_posted/Doc (86).txt
+rank: 1.8435303441699462
+first sentence: SKY Television has scooped the rights to screen the Blackadder movie before the BBC
+
+file name: To_be_posted/Doc (183).txt
+rank: 1.8435303441699462
+first sentence: WHILE Kate is canoodling in Thailand, her tramp-like ox Johnny Depp is in London for the opening of his new film Sleepy Hollow
+
+file name: To_be_posted/Doc (275).txt
+rank: 1.8435303441699462
+first sentence: ALL Saint Nicole Appleton is to go topless in her movie debut, according to her big sister Natalie
+
+file name: To_be_posted/Doc (114).txt
+rank: 1.474824275335957
+first sentence: HERE'S Pierce Brosnan with the hottest trio of Bond girls ever at last night's UK premiere of The World Is Not Enough
+
+file name: To_be_posted/Doc (117).txt
+rank: 1.474824275335957
+first sentence: IN true 007 style, Pierce Brosnan found himself surrounded by beautiful women at the European premiere of the 19th James Bond film in London last night
+
+file name: To_be_posted/Doc (274).txt
+rank: 1.2290202294466308
+first sentence: I HEAR All Saints' Nicole Appleton goes TOPLESS in her new movie
+
+file name: To_be_posted/Doc (290).txt
+rank: 1.2290202294466308
+first sentence: AFTER months of hype, Star Wars: The Phantom Menace had its royal premiere last night - and my fears came true
+
+file name: To_be_posted/Doc (321).txt
+rank: 1.2290202294466308
+first sentence: WELSH actress Catherine Zeta Jones is on her way to becoming a movie mogul
+
+file name: To_be_posted/Doc (206).txt
+rank: 1.2290202294466308
+first sentence: IT WASN'T quite as outrageous as That Dress, the barely believable gown (with the emphasis on barely) that made her an overnight sensation five years ago
+
+file name: To_be_posted/Doc (116).txt
+rank: 1.13448021179689
+first sentence: YOU read about James Bond first in the Daily Express
+
+
+
+
+query: entertainment films 
+file name: To_be_posted/Doc (322).txt
+rank: 3.74840540933387
+first sentence: WHILE much of the world's press worried yesterday about whether Catherine Zeta-Jones would sign a pre-nuptial agreement to stop her getting her hands on Michael Douglas's fortune, the Welsh actress was quietly making herself and her family richer without recourse to her fiancé's wealth
+
+file name: To_be_posted/Doc (319).txt
+rank: 3.531135314890374
+first sentence: STUNNING Catherine Zeta Jones has signed a £250million deal to make Hollywood movies, it was revealed last night
+
+file name: To_be_posted/Doc (320).txt
+rank: 2.716207033999409
+first sentence: BRIDE-TO-be Catherine Zeta Jones was celebrating again yesterday after signing a multi million-pound deal to make up to 12 movies
+
+file name: To_be_posted/Doc (290).txt
+rank: 2.716207033999409
+first sentence: AFTER months of hype, Star Wars: The Phantom Menace had its royal premiere last night - and my fears came true
+
+file name: To_be_posted/Doc (184).txt
+rank: 2.716207033999409
+first sentence: JOHNNY Depp looks like he's dropping a hint to any producer thinking of making a film about Che Guevara
+
+file name: To_be_posted/Doc (86).txt
+rank: 2.716207033999409
+first sentence: SKY Television has scooped the rights to screen the Blackadder movie before the BBC
+
+file name: To_be_posted/Doc (207).txt
+rank: 2.716207033999409
+first sentence: ELIZABETH Hurley appeared in another revealing Versace dress last night for the world premiere of Mickey Blue Eyes, the new film starring her boyfriend Hugh Grant
+
+file name: To_be_posted/Doc (289).txt
+rank: 2.716207033999409
+first sentence: THE new Star Wars movie got its Royal premiere last night - as a galaxy of stars flocked to see it with Prince Charles
+
+file name: To_be_posted/Doc (293).txt
+rank: 2.716207033999409
+first sentence: AS THE boy who grows up into he most evil man in the universe, the young Darth Vader fears little and respects even less
+
+file name: To_be_posted/Doc (321).txt
+rank: 2.716207033999409
+first sentence: WELSH actress Catherine Zeta Jones is on her way to becoming a movie mogul
+
+file name: To_be_posted/Doc (295).txt
+rank: 2.716207033999409
+first sentence: The most hyped film ever limped into London last night for a premiere which could only muster a gathering of C-list celebrities
+
+file name: To_be_posted/Doc (208).txt
+rank: 2.716207033999409
+first sentence: ALFRED HITCHCOCK would not have tolerated the massive fees now paid to film stars, his daughter said yesterday
+
+file name: To_be_posted/Doc (294).txt
+rank: 2.716207033999409
+first sentence: SIX thousand fans squeezed into London's Leicester Square last night to cheer the stars as the Prince of Wales arrived for the royal premiere of the latest Star Wars film, The Phantom Menace
+
+file name: To_be_posted/Doc (118).txt
+rank: 2.716207033999409
+first sentence: 007 WAS back in action last night for the British premiere of The World Is Not Enough at Leicester Square, London
+
+file name: To_be_posted/Doc (275).txt
+rank: 2.716207033999409
+first sentence: ALL Saint Nicole Appleton is to go topless in her movie debut, according to her big sister Natalie
+
+
+
+
+query: court appeal 
+file name: To_be_posted/Doc (165).txt
+rank: 3.2573144156435028
+first sentence: JUDGES yesterday saved the NHS from being "bankrupted" by £1bn-a-year nursing home fees
+
+file name: To_be_posted/Doc (127).txt
+rank: 2.3054756851291014
+first sentence: THE TRIAL of a 13-year-old youth accused of killing a boy of nine by setting his petrol-soaked clothes alight collapsed yesterdaywhen the judge ruled that theteenager could not understand the proceedings
+
+file name: To_be_posted/Doc (173).txt
+rank: 1.5975644904691897
+first sentence: The NHS has been saved hundreds of millions of pounds after the court of appeal yesterday ruled that the service did not have to ensure free care for all elderly people in nursing homes
+
+file name: To_be_posted/Doc (171).txt
+rank: 1.3941753162113926
+first sentence: A WOMAN paralysed in a road accident won a Court of Appeal victory yesterday that should ensure free long-term nursing care for many of the chronically disabled while sparing the Government hundreds of millions of pounds a year in extra National Health Service costs
+
+file name: To_be_posted/Doc (13).txt
+rank: 1.3536369546147005
+first sentence: FIVE IRISH tourists charged in connection with an alleged air-rage incident will face trial at a Crown Court
+
+file name: To_be_posted/Doc (149).txt
+rank: 1.3536369546147005
+first sentence: A WOMAN doctor who set up a brothel to pay the bills was jailed for three months yesterday
+
+file name: To_be_posted/Doc (144).txt
+rank: 1.3536369546147005
+first sentence: Three men found guilty of murdering 18-year-old student Jonathan Coles, who was thrown into a river after leaving a Milton Keynes club, were facing life sentences last night
+
+file name: To_be_posted/Doc (113).txt
+rank: 1.3536369546147005
+first sentence: Two Egyptians appeared at Bow Street magistrates' court yesterday in connectionwith the bombings last year of two American embassies in Africa
+
+file name: To_be_posted/Doc (110).txt
+rank: 1.3536369546147005
+first sentence: TWO Egyptians appeared in court yesterday in London in connection with the bombing of two American embassies in Africa
+
+file name: To_be_posted/Doc (75).txt
+rank: 1.3536369546147005
+first sentence: THE Deputy Chief Constable of Surrey was in court yesterday charged with four sex attacks
+
+file name: To_be_posted/Doc (52).txt
+rank: 1.3536369546147005
+first sentence: TODDLER Molly Adams was killed by her 12-year-old babysitter, a court heard yesterday
+
+file name: To_be_posted/Doc (85).txt
+rank: 1.3536369546147005
+first sentence:  Thomas AlIsop, 45, of Ludlow Square in north Belfast, appeared in court yesterday charged with the murder of Mr Bennett
+
+file name: To_be_posted/Doc (155).txt
+rank: 1.3536369546147005
+first sentence: Maurice Travis, 19, was jailed for life at Wolverhampton Crown Court for stabbing Alan Averall to death on his 17th birthday after being refused cake at Stoke Heath Young Offenders' Institute
+
+file name: To_be_posted/Doc (164).txt
+rank: 1.3029257662574012
+first sentence: A CRASH victim yesterday won a court victory which could help tens of thousands of other people in nursing homes
+
+file name: To_be_posted/Doc (260).txt
+rank: 1.2691183073525347
+first sentence: Royal Ballet star Darcey Bussell, (above) greeted early arrivals at the Royal Opera House in Covent Garden, London, yesterday morning as tickets went on sale for the new season
+
+
+
+
+query: action film producer 
+file name: To_be_posted/Doc (321).txt
+rank: 5.065248338037417
+first sentence: WELSH actress Catherine Zeta Jones is on her way to becoming a movie mogul
+
+file name: To_be_posted/Doc (118).txt
+rank: 4.493179326704281
+first sentence: 007 WAS back in action last night for the British premiere of The World Is Not Enough at Leicester Square, London
+
+file name: To_be_posted/Doc (184).txt
+rank: 4.477988012027915
+first sentence: JOHNNY Depp looks like he's dropping a hint to any producer thinking of making a film about Che Guevara
+
+file name: To_be_posted/Doc (302).txt
+rank: 4.159845993370948
+first sentence: SAEED JAFFREY has been 'rested indefinitely' by Coronation Street's producers weeks after being arrested for drunken behaviour on a train
+
+file name: To_be_posted/Doc (322).txt
+rank: 4.125631816422214
+first sentence: WHILE much of the world's press worried yesterday about whether Catherine Zeta-Jones would sign a pre-nuptial agreement to stop her getting her hands on Michael Douglas's fortune, the Welsh actress was quietly making herself and her family richer without recourse to her fiancé's wealth
+
+file name: To_be_posted/Doc (69).txt
+rank: 3.773561956057013
+first sentence: DAWN FRENCH and Jennifer Saunders are to star in a new sitcom together
+
+file name: To_be_posted/Doc (72).txt
+rank: 3.5387532707333786
+first sentence: THE BESIEGED BBC1 controller, Peter Salmon, came out fighting with an attack on the BBC's commercial rivals yesterday as he launched his channel's crucial autumn line-up
+
+file name: To_be_posted/Doc (205).txt
+rank: 3.523561956057013
+first sentence: LIZ HURLEY basked in reflected glory at the London premier of her new movie Mickey Blue Eyes last night
+
+file name: To_be_posted/Doc (207).txt
+rank: 3.4209194252108115
+first sentence: ELIZABETH Hurley appeared in another revealing Versace dress last night for the world premiere of Mickey Blue Eyes, the new film starring her boyfriend Hugh Grant
+
+file name: To_be_posted/Doc (319).txt
+rank: 2.9853253413519436
+first sentence: STUNNING Catherine Zeta Jones has signed a £250million deal to make Hollywood movies, it was revealed last night
+
+file name: To_be_posted/Doc (320).txt
+rank: 2.716207033999409
+first sentence: BRIDE-TO-be Catherine Zeta Jones was celebrating again yesterday after signing a multi million-pound deal to make up to 12 movies
+
+file name: To_be_posted/Doc (290).txt
+rank: 2.716207033999409
+first sentence: AFTER months of hype, Star Wars: The Phantom Menace had its royal premiere last night - and my fears came true
+
+file name: To_be_posted/Doc (86).txt
+rank: 2.716207033999409
+first sentence: SKY Television has scooped the rights to screen the Blackadder movie before the BBC
+
+file name: To_be_posted/Doc (289).txt
+rank: 2.716207033999409
+first sentence: THE new Star Wars movie got its Royal premiere last night - as a galaxy of stars flocked to see it with Prince Charles
+
+file name: To_be_posted/Doc (293).txt
+rank: 2.716207033999409
+first sentence: AS THE boy who grows up into he most evil man in the universe, the young Darth Vader fears little and respects even less
+
+
+
+
+query: drunk driving accusations 
+file name: To_be_posted/Doc (98).txt
+rank: 4.523561956057013
+first sentence: A Texan millionaire was last night jailed for 85 years after being convicted of a high speed drink-drive boat crash off Florida which claimed the life of a British yacht captain and his five passengers
+
+file name: To_be_posted/Doc (181).txt
+rank: 4.523561956057013
+first sentence: THE presenter of Top Gear, Brendan Coogan, has lost his job because of a drink-drive conviction
+
+file name: To_be_posted/Doc (179).txt
+rank: 4.523561956057013
+first sentence: TOP Gear TV presenter Brendan Coogan has quit his "dream job" after being convicted of drink-driving
+
+file name: To_be_posted/Doc (9).txt
+rank: 3.9160555105715877
+first sentence: A BUSINESSMAN accused of a mid-air sex act with a stranger on an airliner was yesterday sent for trial by Manchester magistrates charged with outraging public decency and being drunk on the American Airlines plane last October
+
+file name: To_be_posted/Doc (11).txt
+rank: 3.2016338611696504
+first sentence: An executive accused of having sex with a stranger on board an American Airlines flight from Dallas to Manchester last October was sent for trial on April 3
+
+file name: To_be_posted/Doc (75).txt
+rank: 3.2016338611696504
+first sentence: THE Deputy Chief Constable of Surrey was in court yesterday charged with four sex attacks
+
+file name: To_be_posted/Doc (10).txt
+rank: 2.610703673714392
+first sentence: A BUSINESSMAN accused of indulging in a passionate clinch with a woman stranger on a transatlantic flight was sent for trial when he appeared in court yesterday
+
+file name: To_be_posted/Doc (97).txt
+rank: 2.600166146877795
+first sentence: A WEALTHY Texan developer convicted of killing a British yachtsman and his five passengers in a highspeed drunk-driving boat crash was given an 85-year jail sentence yesterday
+
+file name: To_be_posted/Doc (127).txt
+rank: 2.401225395877238
+first sentence: THE TRIAL of a 13-year-old youth accused of killing a boy of nine by setting his petrol-soaked clothes alight collapsed yesterdaywhen the judge ruled that theteenager could not understand the proceedings
+
+file name: To_be_posted/Doc (180).txt
+rank: 2.2617809780285065
+first sentence: Brendan Coogan, a Top Gear presenter, has lost his job because of a drink-drive conviction at Huddersfield on Monday
+
+file name: To_be_posted/Doc (80).txt
+rank: 2.1344225741131
+first sentence: ONE of Britain's top police officers appeared in court yesterday accused of a series of sex assaults on two civilian staff
+
+file name: To_be_posted/Doc (96).txt
+rank: 2.0104719804697835
+first sentence: A WEALTHY Texan developer convicted of killing Simon Prankerd, a British yacht captain, and his five passengers in a high-speed drink-driving boat crash has been sentenced to 85 years in prison
+
+file name: To_be_posted/Doc (78).txt
+rank: 1.6008169305848252
+first sentence: The Deputy Chief Constable of Surrey appeared before magistrates yesterday accused of indecently assaulting two female civilian workers
+
+file name: To_be_posted/Doc (299).txt
+rank: 1.5434923866578416
+first sentence: CORONATION Street star Saeed Jaffrsy is being written out of the hit soap, it was revealed last night
+
+file name: To_be_posted/Doc (34).txt
+rank: 1.4229483827420668
+first sentence: A DRIFTER who killed three friends in a savage axe attack was jailed for life yesterday
+
+
+
+
+query: actor appeared in movie premiere 
+file name: To_be_posted/Doc (205).txt
+rank: 7.263090064291041
+first sentence: LIZ HURLEY basked in reflected glory at the London premier of her new movie Mickey Blue Eyes last night
+
+file name: To_be_posted/Doc (279).txt
+rank: 3.807354922057604
+first sentence: SIMPSONS mania is to hit Britain with a stage show featuring the "real" stars
+
+file name: To_be_posted/Doc (300).txt
+rank: 3.7302007170051668
+first sentence: ACTOR Saeed Jaffrey is being axed from Coronation Street weeks after his arrest for being drunk on a train
+
+file name: To_be_posted/Doc (320).txt
+rank: 3.6870606883398924
+first sentence: BRIDE-TO-be Catherine Zeta Jones was celebrating again yesterday after signing a multi million-pound deal to make up to 12 movies
+
+file name: To_be_posted/Doc (86).txt
+rank: 3.6315450321455205
+first sentence: SKY Television has scooped the rights to screen the Blackadder movie before the BBC
+
+file name: To_be_posted/Doc (290).txt
+rank: 3.613039813414063
+first sentence: AFTER months of hype, Star Wars: The Phantom Menace had its royal premiere last night - and my fears came true
+
+file name: To_be_posted/Doc (206).txt
+rank: 3.613039813414063
+first sentence: IT WASN'T quite as outrageous as That Dress, the barely believable gown (with the emphasis on barely) that made her an overnight sensation five years ago
+
+file name: To_be_posted/Doc (293).txt
+rank: 3.509273750743341
+first sentence: AS THE boy who grows up into he most evil man in the universe, the young Darth Vader fears little and respects even less
+
+file name: To_be_posted/Doc (303).txt
+rank: 3.263447076049375
+first sentence: INDIAN actor Saeed Jaffrey hit out last night after being sacked from Coronation Street
+
+file name: To_be_posted/Doc (183).txt
+rank: 3.0555434854229953
+first sentence: WHILE Kate is canoodling in Thailand, her tramp-like ox Johnny Depp is in London for the opening of his new film Sleepy Hollow
+
+file name: To_be_posted/Doc (289).txt
+rank: 2.9825507952662136
+first sentence: THE new Star Wars movie got its Royal premiere last night - as a galaxy of stars flocked to see it with Prince Charles
+
+file name: To_be_posted/Doc (114).txt
+rank: 2.9515011349377076
+first sentence: HERE'S Pierce Brosnan with the hottest trio of Bond girls ever at last night's UK premiere of The World Is Not Enough
+
+file name: To_be_posted/Doc (115).txt
+rank: 2.927442288194165
+first sentence: JAMES Bond star Pierce Brosnan plants a kiss on fiancee Keely Shaye-Smith at last night's British premiere of his new 007 movie
+
+file name: To_be_posted/Doc (117).txt
+rank: 2.9052360257164165
+first sentence: IN true 007 style, Pierce Brosnan found himself surrounded by beautiful women at the European premiere of the 19th James Bond film in London last night
+
+file name: To_be_posted/Doc (312).txt
+rank: 2.795369074684347
+first sentence: THOMAS The Tank Engine is being made into a blockbuster movie
+
+
+
+
