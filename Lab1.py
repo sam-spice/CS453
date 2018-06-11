@@ -44,8 +44,8 @@ def tokenize_file(filename, stopset):
         #print(token)
         if token not in stopset:
             cleaned.append(token)
-    print(tokens)
-    print(cleaned)
+    #print(tokens)
+    #print(cleaned)
     return cleaned
 
 def stem_words(to_stem):
@@ -56,7 +56,7 @@ def stem_words(to_stem):
             completed_stemmed.append(stemmed)
         else:
             completed_stemmed.append(word)
-    print(completed_stemmed)
+    # print(completed_stemmed)
     stemmed_set = set()
     stemmed_set.update(completed_stemmed)
     return completed_stemmed, stemmed_set
@@ -101,15 +101,15 @@ def stem_query(query):
         if word not in stopwords:
             stopped.append(word)
     stemmed, trash = stem_words(stopped)
-    print(stemmed)
+    # print(stemmed)
     return stemmed
 
-def get_query():
-    print(sys.argv[1:])
+def get_query(to_query):
+    #print(sys.argv[1:])
     original_query = ''
-    for word in sys.argv[1:]:
+    for word in to_query.split(' '):
         original_query += word + ' '
-    return sys.argv[1:], original_query
+    return to_query.split(' '), original_query
 
 def rank_file(global_index, doc_index, query, num_docs):
     rank = 0
@@ -142,9 +142,9 @@ class rank_holder:
     def get_file(self):
         return self.file
 
-def query_run():
-    result_file = 'results.txt'
-    query, original_query = get_query()
+def query_run(to_query):
+    #result_file = 'results.txt'
+    query, original_query = get_query(to_query)
     query = stem_query(query)
     global_index, doc_indices = unpickle()
     file_list = glob.glob('To_be_posted/*.txt')
@@ -163,9 +163,8 @@ def query_run():
     #outfile =  open(result_file, 'a')
     #outfile.write('query: ' + original_query + '\n')
 
-    best_15 = sorted_ranked[:15]
-    for entry in best_15:
-       pass
+    best_5 = sorted_ranked[:5]
+    return best_5, doc_indices
 
 
     #print(sorted_ranked)
