@@ -1,6 +1,8 @@
 import Lab1
 import string
 import glob
+import re
+
 
 def get_smap():
     orig_dict = {('b','f','p','v'): 1,
@@ -161,6 +163,93 @@ def strip_punc(to_strip):
     return new_s
 
 
+def get_word_freqs(sentences):
+    doc_freq_dict = dict()
+    for sentence in sentences:
+        words = sentence.split(' ')
+        for word in words:
+            doc_freq_dict[word] = doc_freq_dict.get(word, 0) + 1
+    return doc_freq_dict
+
+
+def sentence_sig(sentence, num_sentences, word_freqs):
+    bar = 0
+    if num_sentences < 25:
+        bar = 7 - (.1 * (25 - num_sentences))
+    elif 25 <= num_sentences < 40:
+        bar = 7
+    else:
+        7 - (.1 * (num_sentences - 40))
+
+    sig_words = 0
+    for word in sentence.split(' '):
+        if word_freqs.get(word, 0) >= bar:
+            sig_words += 1
+    return (sig_words ** 2) / len(sentence.split(' '))
+
+
+def unique_query_terms(sentence, query):
+    unique_terms = 0
+    for term in query:
+        if term in sentence:
+            unique_terms += 1
+    return unique_terms
+
+def total_query_terms(sentence, query):
+    total_terms = 0
+    for word in sentence.split(' '):
+        if word in query:
+            total_terms += 1
+    return total_terms
+
+
+def longest_query_seq(sentence, query):
+    longest_streak = 0
+    cur_streak = 0
+    for word in sentence.split(' '):
+        if word in query:
+            cur_streak += 1
+        else:
+            longest_streak = max(cur_streak, longest_streak)
+            cur_streak = 0
+    return longest_streak
+
+
+def generate_snippet(filename, tokenized_query):
+    file_content =  open(filename,  encoding='iso-8859-1').read()
+    file_content = file_content.replace('\n', ' ')
+    file_content = file_content.replace('\t', ' ')
+    #file_content = file_content.replace('\'', '')
+    #" ".join(file_content.split())
+    file_content = re.sub("\s\s+", " ", file_content)
+    sentences = re.split(r' *[\.\?!][\'"\)\]]* *', file_content)
+    # strip sentences that are empty
+    for sentence in sentences:
+        if sentence == ' ':
+            sentences.remove(sentence)
+
+    doc_freqs = get_word_freqs(sentences)
+    tuples = list()
+    for i in range(len(sentences)):
+        new_rank = 0
+        new_rank += sentence_sig(sentences[i], len(sentences), doc_freqs)
+        new_rank += unique_query_terms(sentences[i], tokenized_query)
+        new_rank += total_query_terms(sentences[i], tokenized_query)
+        if i == 0 or i == 1:
+            new_rank += 1
+        new_rank += longest_query_seq(sentences[i], tokenized_query)
+
+
+        tuples.append((sentences[i], new_rank))
+    tuples.sort(key=lambda item: item[1], reverse=True)
+    if len(tuples) < 2:
+        return tuples[0]
+    else:
+        return tuples[:2]
+
+
+
+
 def main():
     stop_set = Lab1.get_stopwords()
     dict_set = get_dict()
@@ -180,13 +269,16 @@ def main():
         new_query = new_query[:-1]
         best_5, doc_indices = Lab1.query_run(new_query)
         for entry in best_5:
-            print(entry.file)
+            snippets = generate_snippet(entry.file, tokenized_query)
+            to_print = ''
+            for snippet in snippets:
+                to_print += snippet[0] + '. '
+            to_print = to_print[:-2]
+            print("File Name: " + entry.file)
+            print("Snippet: \n\t" + to_print)
+
 
 
 main()
 #returned = get_levenshtein_distance('kitten', 'sitting')
 #print('there')
-logs = get_sessions()
-likelihood = get_likelihood('axtor','actor', logs)
-prior = get_prior('actor', Lab1.get_stopwords())
-print(likelihood)
