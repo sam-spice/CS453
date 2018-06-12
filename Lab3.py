@@ -215,7 +215,40 @@ def longest_query_seq(sentence, query):
     return longest_streak
 
 
-def generate_snippet(filename, tokenized_query):
+# rates queries based on distance from beginning of sentence
+def dist_query_start(sentence, query):
+    numer = 0
+    split_sentence = sentence.split(' ')
+    for i in range(len(split_sentence)):
+        if split_sentence[i] in query:
+            numer += (len(split_sentence) - i) / len(split_sentence)
+    return numer
+
+# adds the number of non-stopwords unique words
+def unique_words(sentence, word_freqs, stopwords):
+    unique_words = 0;
+    for word in sentence.split(' '):
+        if word_freqs.get(word, 0) == 1 and word not in stopwords:
+            unique_words += 1
+    return unique_words
+
+
+# number of matching soundex codes in
+def matching_soundex(sentence, query, stop_set):
+    soundex_match = 0
+    query_soundex = set()
+    for term in query:
+        query_soundex.add(get_soundex(term))
+    for word in sentence.split(' '):
+        if word in stop_set:
+            continue
+        soundex = get_soundex(word)
+        if soundex in query_soundex:
+            soundex_match += 1
+    return soundex_match
+
+
+def generate_snippet(filename, tokenized_query, stopwords):
     file_content =  open(filename,  encoding='iso-8859-1').read()
     file_content = file_content.replace('\n', ' ')
     file_content = file_content.replace('\t', ' ')
@@ -239,8 +272,13 @@ def generate_snippet(filename, tokenized_query):
             new_rank += 1
         new_rank += longest_query_seq(sentences[i], tokenized_query)
 
+        # custom measures
+        new_rank += dist_query_start(sentences[i], tokenized_query)
+        new_rank += unique_words(sentences[i], doc_freqs, stopwords)
+        new_rank += matching_soundex(sentences[i], tokenized_query, stopwords)
 
         tuples.append((sentences[i], new_rank))
+
     tuples.sort(key=lambda item: item[1], reverse=True)
     if len(tuples) < 2:
         return tuples[0]
@@ -248,6 +286,26 @@ def generate_snippet(filename, tokenized_query):
         return tuples[:2]
 
 
+def bold_snippet(snippet, query):
+    new_snippet = ''
+    start = "\033[1m"
+    end = "\033[0;0m"
+    # bold query terms in snippet
+    for word in snippet.split(' '):
+        # remove leading and trailing whitespace
+        if word[0] == ' ':
+            word = word[1:]
+        if word[len(word) - 1] == ' ':
+            word = word[:-1]
+         # strip punct
+        word = strip_punc(word)
+        if word.lower() in query:
+            new_snippet += start + word + end + ' '
+        else:
+            new_snippet += word + ' '
+    # trim trailing whitespace
+    new_snippet = new_snippet[:-1]
+    return new_snippet
 
 
 def main():
@@ -269,13 +327,14 @@ def main():
         new_query = new_query[:-1]
         best_5, doc_indices = Lab1.query_run(new_query)
         for entry in best_5:
-            snippets = generate_snippet(entry.file, tokenized_query)
+            snippets = generate_snippet(entry.file, tokenized_query, stop_set)
             to_print = ''
             for snippet in snippets:
                 to_print += snippet[0] + '. '
-            to_print = to_print[:-2]
-            print("File Name: " + entry.file)
-            print("Snippet: \n\t" + to_print)
+            to_print = to_print[:-1]
+            print("\nFile Name: " + entry.file)
+            to_print = bold_snippet(to_print, tokenized_query)
+            print("Snippet: \n\t" + to_print + '\n')
 
 
 
